@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bihamk</string>
+    <string name="odaberi_kanton">Odaberite kanton</string>
+    <string name="dialog_title">Dialog</string>
+    <string name="dialog_text">Da li želite nazvati Bihamkovu besplatnu podršku korisnicima?</string>
+    <string name="nama">O nama</string>
+    <string name="eminaberina">Emina Salkanović i Berina Dedović</string>
+
+</resources>
